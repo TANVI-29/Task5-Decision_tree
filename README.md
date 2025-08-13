@@ -31,10 +31,5 @@ Feature Importance Chart – Displays which features most affect predictions.
 pip install pandas numpy matplotlib scikit-learn
 ```
 
-### 2. Run the Python script:
-```python
-python heart_disease_prediction.py
-
-```
 ## Conclusion
 The Random Forest model performed slightly better and was more robust compared to a deep Decision Tree. Limiting tree depth helped reduce overfitting.
